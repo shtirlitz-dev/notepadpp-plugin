@@ -10,7 +10,7 @@
 * 64-bit version added
 * Additional files are not required, only ShtirlitzNppPlugin.dll
 * Decoding styles were redefined
-* When required, a .cfg file can be prepared in Shtirlitz (encodings, transliterations, styles) and moved as ShtirlitzNppPlugin.dat in the folder with ShtirlitzNppPlugin.dll.
+* When required, a .dat file can be prepared in Shtirlitz (encodings, transliterations, styles) and moved as ShtirlitzNppPlugin.dat in the folder with ShtirlitzNppPlugin.dll.
 * If there is no selection in the text window, Shtirlitz plugin selects all the texts, decodes and replaces it.
 
 ### no version, 29.12.2013
