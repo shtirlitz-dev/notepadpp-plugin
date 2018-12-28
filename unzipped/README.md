@@ -1,5 +1,7 @@
 # shtirllitz plugin for notepad++
 
+## this is old version left for the compatibility, use dlls from folders 32bit and 64bit
+
 ShtirlitzNppPlugin.dll requires files:
   * Shtirlitz\Shtirlitz.cfg
   * Shtirlitz\Shtirlitz.dat
